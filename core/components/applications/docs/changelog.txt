@@ -1,0 +1,5 @@
+Changelog for applications.
+
+applications 0.0.1
+==============
+- Initial release.

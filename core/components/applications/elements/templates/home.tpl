@@ -1,0 +1,1 @@
+<div id="applications-panel-home-div"></div>
